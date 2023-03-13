@@ -1,2 +1,2 @@
-# site-seinencarrao
-Site do Seinen Carrão
+# Site do Seinen Carrão
+Feito por membros da própria entidade
